@@ -1,3 +1,5 @@
+///////SEED FILE////////////
+// purpose: a contorller file that sets up (seeds) the database/tables
 //import doenvt and config with defailt settings
 require('dotenv').config();
 
